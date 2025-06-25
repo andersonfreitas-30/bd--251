@@ -1,1 +1,4 @@
-# Avalia‡Æo-04 
+# Avaliaï¿½ï¿½o-04 
+Executar o prompt-01.
+Evidenciar o print da execuÃ§Ã£o mostrando o conteÃºdo da tabela criada. 
+Postar o print no Github e o link do Github no GoogleClassroom.
